@@ -10,14 +10,14 @@ header {
 }
 h1 {
     position: absolute;
-    z-index: 100;
+    z-index: 450;
     top: 10px;
-    left: 60px;
+    right: 60px;
     padding: 8px 15px;
     margin: 0;
-    color: whitesmoke;
+    color: white;
     font-size: 1.3em;
-    background: rgba(25,25,25,0.8);
+    background: rgba(153,153,153,0.8);
     border-radius: 0; 
     font-weight: normal;
 }
@@ -33,7 +33,7 @@ h1 {
 }
 .legend {
     line-height: 18px;
-    color: #555;
+    color: rgb(255, 255, 255);
 }
 .legend i {
     width: 18px;
