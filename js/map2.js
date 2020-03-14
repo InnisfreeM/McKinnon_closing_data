@@ -99,10 +99,10 @@ $.getJSON("data/data.geojson",function(data){
 	 onEachFeature: function(feature, layer) {            
         var props = layer.feature.properties;
         
-        layer.bindPopup("<b>"+props.Institution+"</b>"+
+        layer.bindPopup("<b>"+props.school+"</b>"+
 		        "<dl>"+
-            props.City+", "+props.State+
-            "<br><a href="+props.Documentation+">Read More</a>"+      
+            props.City+", "+props.state+
+            "<br><a href="+props.url_txt">Read More</a>"+      
 		        "</dl>");
 	
 	    layer.on({
