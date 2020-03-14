@@ -18,9 +18,9 @@ var sitePoints = null,
 //more sector Types can be added by following the pattern below
 //the last color without a type label is the color that anything with a type that isn't listed will be colored 
 function setColor(type) {
-	return type == 'Private not-for-profit, 4-year or above' ? "#a6cee3" : 
+	return type == 'Private not-for-profit, 4-year or above' ? "#7570b3" : 
 	       type == 'Public, 4-year or above' ? "#33a02c" :
-           type == 'Private for-profit, 4-year or above' ? "#1f78b4" :
+           type == 'Private for-profit, 4-year or above' ? "#7570b3" :
            type == 'Public, 2-year' ? '#b2df8a' :
 	       type == 'Source' ? "#33a02c" : 
 	                     "white";
