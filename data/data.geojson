@@ -413,54 +413,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 40.86497,-73.9934 ]
-    },
-    "properties": {
-    "school":"Assumption College",
-    "schoolid":null,
-    "city":"Metro Manila",
-    "state":"Philippines",
-    "zip":"",
-    "url_txt":"",
-    "date":"",
-    "anderson":"",
-    "alexander":"1",
-    "manual":"",
-    "timing":"",
-    "sector":"",
-    "student_count":null,
-    "notes":"",
-    "documentation":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 40.86497,-73.9934 ]
-    },
-    "properties": {
-    "school":"Ateneo de Manila University",
-    "schoolid":null,
-    "city":"Metro Manila",
-    "state":"Philippines",
-    "zip":"",
-    "url_txt":"",
-    "date":"",
-    "anderson":"",
-    "alexander":"1",
-    "manual":"",
-    "timing":"",
-    "sector":"",
-    "student_count":null,
-    "notes":"",
-    "documentation":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -85.4883,32.59938 ]
     },
     "properties": {
@@ -17285,21 +17237,21 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -123.238,44.85224 ]
     },
     "properties": {
     "school":"Western Oregon University",
-    "schoolid":null,
-    "city":"",
-    "state":"",
+    "schoolid":210429,
+    "city":"Monmouth",
+    "state":"OR",
     "zip":"",
-    "url_txt":"",
-    "date":"",
+    "url_txt":"https://wou.edu/coronavirus/",
+    "date":"3/14/20",
     "anderson":"",
     "alexander":"",
-    "manual":"",
-    "timing":"",
-    "sector":"",
+    "manual":"1",
+    "timing":"Reopening as online courses on April 1. ",
+    "sector":"Public, 4-year or above",
     "student_count":6079,
     "notes":"",
     "documentation":""
