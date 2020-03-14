@@ -20,7 +20,7 @@ var sitePoints = null,
 function setColor(type) {
 	return type == 'Private not-for-profit, 4-year or above' ? "#7570b3" : 
 	       type == 'Public, 4-year or above' ? "#33a02c" :
-           type == 'Private for-profit, 4-year or above' ? "#7570b3" :
+           type == 'Private for-profit, 4-year or above' ? "#d95f02" :
            type == 'Public, 2-year' ? '#b2df8a' :
 	       type == 'Source' ? "#33a02c" : 
 	                     "white";
