@@ -14,8 +14,8 @@ var sitePoints = null,
 //map.createPane("pane450").style.zIndex = 450; // between overlays and shadows
 //map.createPane("pane600").style.zIndex = 600; // marker pane
 
-//Sets the color for each Sector Type
-//more Sector Types can be added by following the pattern below
+//Sets the color for each sector Type
+//more sector Types can be added by following the pattern below
 //the last color without a type label is the color that anything with a type that isn't listed will be colored 
 function setColor(type) {
 	return type == 'Private not-for-profit, 4-year or above' ? "#a6cee3" : 
@@ -26,11 +26,11 @@ function setColor(type) {
 	                     "white";
 }
 
-//this is the part where we tell it to use Sector to set the fill color of our circle and create a white outline
+//this is the part where we tell it to use sector to set the fill color of our circle and create a white outline
 //the white outline is helpful when there are lots of points stacked on top of each other
 function style(feature) {
     return {
-        fillColor: setColor(feature.properties.Sector),
+        fillColor: setColor(feature.properties.sector),
         color: "white",
         fillOpacity: 0.9,
         width: 0.2
@@ -72,8 +72,8 @@ function highlightFeature(e) {
         
         layer.bindPopup("<b>"+props.school+"</b>"+
 		        "<dl>"+
-            props.City+", "+props.State+
-            "<br><a href="+props.Documentation+">Read More</a>"+      
+            props.city+", "+props.state+
+            "<br><a href="+props.url_txt+">Read More</a>"+      
 		        "</dl>");
 	
 	    layer.on({
@@ -100,7 +100,7 @@ $.getJSON("data/data.geojson",function(data){
         
         layer.bindPopup("<b>"+props.school+"</b>"+
 		        "<dl>"+
-            props.City+", "+props.state+
+            props.city+", "+props.state+
             "<br><a href="+props.url_txt+">Read More</a>"+      
 		        "</dl>");
 	
@@ -123,7 +123,7 @@ legend.onAdd = function (map) {
     //this is the title for the legend
     div.innerHTML += "<b>"+ 'Closed Institutions'+ "</b>"+ "<br>";
     
-    //type is the content of the Sector field, labels is what you want the label on the legend to actually say
+    //type is the content of the sector field, labels is what you want the label on the legend to actually say
     //there need to be the same number of types as labels and listed in the same order
     type = ['Private for-profit, 4-year or above', 'Private not-for-profit, 4-year or above', 'Public, 4-year or above', 'Public, 2-year'];
     labels = ['Private for-profit, 4-year or above', 'Private not-for-profit, 4-year or above', 'Public, 4-year or above', 'Public, 2-year'];
