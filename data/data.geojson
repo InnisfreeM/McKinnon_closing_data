@@ -19,7 +19,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Online March 11-25",
-    "Sector":"Private for-profit, 4-year or above",
+    "sector":"Private for-profit, 4-year or above",
     "student_count":14691,
     "notes":"",
     "documentation":""
@@ -43,7 +43,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4217,
     "notes":"",
     "documentation":""
@@ -67,7 +67,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 11 -",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":9113,
     "notes":"",
     "documentation":""
@@ -91,7 +91,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5374,
     "notes":"",
     "documentation":""
@@ -115,7 +115,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Administrative Unit",
+    "sector":"Administrative Unit",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -139,7 +139,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3887,
     "notes":"",
     "documentation":""
@@ -163,7 +163,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1859,
     "notes":"",
     "documentation":""
@@ -187,7 +187,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2140,
     "notes":"",
     "documentation":""
@@ -211,7 +211,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":13139,
     "notes":"",
     "documentation":""
@@ -235,7 +235,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5497,
     "notes":"",
     "documentation":""
@@ -259,7 +259,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":48591,
     "notes":"",
     "documentation":""
@@ -283,7 +283,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":55681,
     "notes":"",
     "documentation":""
@@ -307,7 +307,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4674,
     "notes":"",
     "documentation":""
@@ -331,7 +331,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":48591,
     "notes":"",
     "documentation":""
@@ -355,7 +355,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":55681,
     "notes":"",
     "documentation":""
@@ -379,7 +379,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4674,
     "notes":"",
     "documentation":""
@@ -403,7 +403,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":2730,
     "notes":"",
     "documentation":""
@@ -427,7 +427,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":31845,
     "notes":"",
     "documentation":""
@@ -451,7 +451,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2696,
     "notes":"",
     "documentation":""
@@ -475,7 +475,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2696,
     "notes":"",
     "documentation":""
@@ -499,7 +499,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":968,
     "notes":"",
     "documentation":""
@@ -523,7 +523,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 13-",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4079,
     "notes":"",
     "documentation":""
@@ -547,7 +547,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4578,
     "notes":"",
     "documentation":""
@@ -571,7 +571,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"Extending spring break 3/16-3/20; 3/23-4/10 remote classes; 4/13 in-person classes resume",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4578,
     "notes":"",
     "documentation":""
@@ -595,7 +595,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":27369,
     "notes":"",
     "documentation":""
@@ -619,7 +619,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 23 -",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2705,
     "notes":"",
     "documentation":""
@@ -643,7 +643,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":18261,
     "notes":"",
     "documentation":""
@@ -667,7 +667,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 5-27, 2020",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":20125,
     "notes":"",
     "documentation":""
@@ -691,7 +691,7 @@
     "alexander":"",
     "manual":"",
     "timing":"website not updated yet",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3574,
     "notes":"",
     "documentation":""
@@ -715,7 +715,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 10 - April 5",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8502,
     "notes":"",
     "documentation":""
@@ -739,7 +739,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1501,
     "notes":"",
     "documentation":""
@@ -763,7 +763,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7648,
     "notes":"",
     "documentation":""
@@ -787,7 +787,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Classes to end March 13.",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1724,
     "notes":"",
     "documentation":""
@@ -811,7 +811,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7913,
     "notes":"",
     "documentation":""
@@ -835,7 +835,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":753,
     "notes":"",
     "documentation":""
@@ -859,7 +859,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":52,
     "notes":"",
     "documentation":""
@@ -883,7 +883,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":8110,
     "notes":"",
     "documentation":""
@@ -907,7 +907,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6075,
     "notes":"",
     "documentation":""
@@ -931,7 +931,7 @@
     "alexander":"",
     "manual":"1",
     "timing":"March 10 - 22",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10288,
     "notes":"",
     "documentation":"https://www.bloomu.edu/coronavirus"
@@ -955,7 +955,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":31066,
     "notes":"",
     "documentation":""
@@ -979,7 +979,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":15903,
     "notes":"",
     "documentation":""
@@ -1003,7 +1003,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Online March 20-April 13",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":41418,
     "notes":"",
     "documentation":""
@@ -1027,7 +1027,7 @@
     "alexander":"",
     "manual":"",
     "timing":"no classes March 23-24; online March 25 on",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1967,
     "notes":"",
     "documentation":""
@@ -1051,7 +1051,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 14 -",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6998,
     "notes":"",
     "documentation":""
@@ -1075,7 +1075,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 -",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":20459,
     "notes":"",
     "documentation":""
@@ -1099,7 +1099,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6148,
     "notes":"",
     "documentation":""
@@ -1123,7 +1123,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6330,
     "notes":"",
     "documentation":""
@@ -1147,7 +1147,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1459,
     "notes":"",
     "documentation":""
@@ -1171,7 +1171,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":39515,
     "notes":"",
     "documentation":""
@@ -1195,7 +1195,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4099,
     "notes":"",
     "documentation":""
@@ -1219,7 +1219,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online March 16-April 3",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1738,
     "notes":"",
     "documentation":""
@@ -1243,7 +1243,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Online March 19 - end of semester",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3832,
     "notes":"",
     "documentation":""
@@ -1267,7 +1267,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5306,
     "notes":"",
     "documentation":""
@@ -1291,7 +1291,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12055,
     "notes":"",
     "documentation":""
@@ -1315,7 +1315,7 @@
     "alexander":"",
     "manual":"1",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":27251,
     "notes":"",
     "documentation":""
@@ -1339,7 +1339,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":19754,
     "notes":"",
     "documentation":""
@@ -1363,7 +1363,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":19613,
     "notes":"",
     "documentation":""
@@ -1387,7 +1387,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":27251,
     "notes":"",
     "documentation":""
@@ -1411,7 +1411,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":41221,
     "notes":"",
     "documentation":""
@@ -1435,7 +1435,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4099,
     "notes":"",
     "documentation":""
@@ -1459,7 +1459,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7538,
     "notes":"",
     "documentation":""
@@ -1483,7 +1483,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":5027,
     "notes":"",
     "documentation":""
@@ -1507,7 +1507,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3928,
     "notes":"",
     "documentation":""
@@ -1531,7 +1531,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3082,
     "notes":"",
     "documentation":""
@@ -1555,7 +1555,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2126,
     "notes":"",
     "documentation":""
@@ -1579,7 +1579,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2574,
     "notes":"",
     "documentation":""
@@ -1603,7 +1603,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":15248,
     "notes":"",
     "documentation":""
@@ -1627,7 +1627,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3046,
     "notes":"",
     "documentation":""
@@ -1651,7 +1651,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4581,
     "notes":"",
     "documentation":""
@@ -1675,7 +1675,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"through winter quarter (3/20)",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4581,
     "notes":"",
     "documentation":""
@@ -1699,7 +1699,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Classes cancelled 3/16-3/17; remote classes to resume 3/18",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12661,
     "notes":"",
     "documentation":""
@@ -1723,7 +1723,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":14006,
     "notes":"",
     "documentation":""
@@ -1747,7 +1747,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online classes starting March 20 (I think)",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":26971,
     "notes":"",
     "documentation":""
@@ -1771,7 +1771,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2004,
     "notes":"",
     "documentation":""
@@ -1795,7 +1795,7 @@
     "alexander":"",
     "manual":"",
     "timing":"spring break extended through March 20; online from March 23. Announcement on April 6.",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":8630,
     "notes":"",
     "documentation":""
@@ -1819,7 +1819,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5424,
     "notes":"",
     "documentation":""
@@ -1843,7 +1843,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2743,
     "notes":"",
     "documentation":""
@@ -1867,7 +1867,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2154,
     "notes":"",
     "documentation":""
@@ -1891,7 +1891,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5227,
     "notes":"",
     "documentation":""
@@ -1915,7 +1915,7 @@
     "alexander":"",
     "manual":"",
     "timing":"canceled starting March 12; online at some point after that",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":38862,
     "notes":"",
     "documentation":""
@@ -1939,7 +1939,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2087,
     "notes":"",
     "documentation":""
@@ -1963,7 +1963,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4327,
     "notes":"",
     "documentation":""
@@ -1987,7 +1987,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":14127,
     "notes":"",
     "documentation":""
@@ -2011,7 +2011,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":8394,
     "notes":"",
     "documentation":""
@@ -2035,7 +2035,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3596,
     "notes":"",
     "documentation":""
@@ -2059,7 +2059,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3596,
     "notes":"",
     "documentation":""
@@ -2083,7 +2083,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":27796,
     "notes":"",
     "documentation":""
@@ -2107,7 +2107,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":12015,
     "notes":"",
     "documentation":""
@@ -2131,7 +2131,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1440,
     "notes":"",
     "documentation":""
@@ -2155,7 +2155,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3045,
     "notes":"",
     "documentation":""
@@ -2179,7 +2179,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":13258,
     "notes":"",
     "documentation":""
@@ -2203,7 +2203,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":8630,
     "notes":"",
     "documentation":""
@@ -2227,7 +2227,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1975,
     "notes":"",
     "documentation":""
@@ -2251,7 +2251,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5424,
     "notes":"",
     "documentation":""
@@ -2275,7 +2275,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16391,
     "notes":"",
     "documentation":""
@@ -2299,7 +2299,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2154,
     "notes":"",
     "documentation":""
@@ -2323,7 +2323,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":10863,
     "notes":"",
     "documentation":""
@@ -2347,7 +2347,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2389,
     "notes":"",
     "documentation":""
@@ -2371,7 +2371,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10810,
     "notes":"",
     "documentation":""
@@ -2395,7 +2395,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":8322,
     "notes":"",
     "documentation":""
@@ -2419,7 +2419,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6994,
     "notes":"",
     "documentation":""
@@ -2443,7 +2443,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":37676,
     "notes":"",
     "documentation":""
@@ -2467,7 +2467,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7995,
     "notes":"",
     "documentation":""
@@ -2491,7 +2491,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 9 -10, 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":32789,
     "notes":"",
     "documentation":""
@@ -2515,7 +2515,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"spring break extended through March 22; online for 2 weeks starting March 23",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1113,
     "notes":"",
     "documentation":""
@@ -2539,7 +2539,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2710,
     "notes":"",
     "documentation":""
@@ -2563,7 +2563,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6388,
     "notes":"",
     "documentation":""
@@ -2587,7 +2587,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8010,
     "notes":"",
     "documentation":""
@@ -2611,7 +2611,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1891,
     "notes":"",
     "documentation":""
@@ -2635,7 +2635,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3357,
     "notes":"",
     "documentation":""
@@ -2659,7 +2659,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1058,
     "notes":"",
     "documentation":""
@@ -2683,7 +2683,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":23613,
     "notes":"",
     "documentation":""
@@ -2707,7 +2707,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2914,
     "notes":"",
     "documentation":""
@@ -2731,7 +2731,7 @@
     "alexander":"",
     "manual":"1",
     "timing":"March 10-30",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":672,
     "notes":"",
     "documentation":""
@@ -2755,7 +2755,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":10398,
     "notes":"",
     "documentation":""
@@ -2779,7 +2779,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":22394,
     "notes":"",
     "documentation":""
@@ -2803,7 +2803,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":35812,
     "notes":"",
     "documentation":""
@@ -2827,7 +2827,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":14954,
     "notes":"",
     "documentation":""
@@ -2851,7 +2851,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":21837,
     "notes":"",
     "documentation":""
@@ -2875,7 +2875,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":18956,
     "notes":"",
     "documentation":""
@@ -2899,7 +2899,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9522,
     "notes":"",
     "documentation":""
@@ -2923,7 +2923,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":9755,
     "notes":"",
     "documentation":""
@@ -2947,7 +2947,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":28079,
     "notes":"",
     "documentation":""
@@ -2971,7 +2971,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":18615,
     "notes":"",
     "documentation":""
@@ -2995,7 +2995,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":20637,
     "notes":"",
     "documentation":""
@@ -3019,7 +3019,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":25259,
     "notes":"",
     "documentation":""
@@ -3043,7 +3043,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":18715,
     "notes":"",
     "documentation":""
@@ -3067,7 +3067,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9167,
     "notes":"",
     "documentation":""
@@ -3091,7 +3091,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":20973,
     "notes":"",
     "documentation":""
@@ -3115,7 +3115,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":24362,
     "notes":"",
     "documentation":""
@@ -3139,7 +3139,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":20604,
     "notes":"",
     "documentation":""
@@ -3163,7 +3163,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":506,
     "notes":"",
     "documentation":""
@@ -3187,7 +3187,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10743,
     "notes":"",
     "documentation":""
@@ -3211,7 +3211,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7033,
     "notes":"",
     "documentation":""
@@ -3235,7 +3235,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1985,
     "notes":"",
     "documentation":""
@@ -3259,7 +3259,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4633,
     "notes":"",
     "documentation":""
@@ -3283,7 +3283,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2942,
     "notes":"",
     "documentation":""
@@ -3307,7 +3307,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5847,
     "notes":"",
     "documentation":""
@@ -3331,7 +3331,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2376,
     "notes":"",
     "documentation":""
@@ -3355,7 +3355,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":27128,
     "notes":"",
     "documentation":""
@@ -3379,7 +3379,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2185,
     "notes":"",
     "documentation":""
@@ -3403,7 +3403,7 @@
     "alexander":"",
     "manual":"",
     "timing":"spring break extended through March 21",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2435,
     "notes":"",
     "documentation":""
@@ -3427,7 +3427,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5711,
     "notes":"",
     "documentation":""
@@ -3451,7 +3451,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2397,
     "notes":"",
     "documentation":""
@@ -3475,7 +3475,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":27091,
     "notes":"",
     "documentation":""
@@ -3499,7 +3499,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1879,
     "notes":"",
     "documentation":""
@@ -3523,7 +3523,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1879,
     "notes":"",
     "documentation":""
@@ -3547,7 +3547,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Spring break extended until March 22 and remote classes to begin on March 23",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":18107,
     "notes":"",
     "documentation":""
@@ -3571,7 +3571,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1500,
     "notes":"",
     "documentation":""
@@ -3595,7 +3595,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":10218,
     "notes":"",
     "documentation":""
@@ -3619,7 +3619,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1180,
     "notes":"",
     "documentation":""
@@ -3643,7 +3643,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5899,
     "notes":"",
     "documentation":""
@@ -3667,7 +3667,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":8991,
     "notes":"",
     "documentation":""
@@ -3691,7 +3691,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":12855,
     "notes":"",
     "documentation":""
@@ -3715,7 +3715,7 @@
     "alexander":"",
     "manual":"",
     "timing":"classes canceled March 12-15; online March 16-31; f2f to resume April 1",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":23715,
     "notes":"",
     "documentation":""
@@ -3739,7 +3739,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7502,
     "notes":"",
     "documentation":""
@@ -3763,7 +3763,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2650,
     "notes":"",
     "documentation":""
@@ -3787,7 +3787,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6573,
     "notes":"",
     "documentation":""
@@ -3811,7 +3811,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3832,
     "notes":"",
     "documentation":""
@@ -3835,7 +3835,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7088,
     "notes":"",
     "documentation":""
@@ -3859,7 +3859,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4815,
     "notes":"",
     "documentation":""
@@ -3883,7 +3883,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1302,
     "notes":"",
     "documentation":""
@@ -3907,7 +3907,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":15831,
     "notes":"",
     "documentation":""
@@ -3931,7 +3931,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6987,
     "notes":"",
     "documentation":""
@@ -3955,7 +3955,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2288,
     "notes":"",
     "documentation":""
@@ -3979,7 +3979,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 9-",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":14451,
     "notes":"",
     "documentation":""
@@ -4003,7 +4003,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5799,
     "notes":"",
     "documentation":""
@@ -4027,7 +4027,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3786,
     "notes":"",
     "documentation":""
@@ -4051,7 +4051,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":9205,
     "notes":"",
     "documentation":""
@@ -4075,7 +4075,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4620,
     "notes":"",
     "documentation":""
@@ -4099,7 +4099,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16549,
     "notes":"",
     "documentation":""
@@ -4123,7 +4123,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10986,
     "notes":"",
     "documentation":""
@@ -4147,7 +4147,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":37588,
     "notes":"",
     "documentation":""
@@ -4171,7 +4171,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16878,
     "notes":"",
     "documentation":""
@@ -4195,7 +4195,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7590,
     "notes":"",
     "documentation":""
@@ -4219,7 +4219,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":70581,
     "notes":"",
     "documentation":""
@@ -4243,7 +4243,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":1519,
     "notes":"",
     "documentation":""
@@ -4267,7 +4267,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":46946,
     "notes":"",
     "documentation":""
@@ -4291,7 +4291,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":18057,
     "notes":"",
     "documentation":""
@@ -4315,7 +4315,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":17953,
     "notes":"",
     "documentation":""
@@ -4339,7 +4339,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3730,
     "notes":"",
     "documentation":""
@@ -4363,7 +4363,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 \"through at least April 3\"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2486,
     "notes":"",
     "documentation":""
@@ -4387,7 +4387,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2312,
     "notes":"",
     "documentation":""
@@ -4411,7 +4411,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6122,
     "notes":"",
     "documentation":""
@@ -4435,7 +4435,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3167,
     "notes":"",
     "documentation":""
@@ -4459,7 +4459,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":9696,
     "notes":"",
     "documentation":""
@@ -4483,7 +4483,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":47049,
     "notes":"",
     "documentation":""
@@ -4507,7 +4507,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":31392,
     "notes":"",
     "documentation":""
@@ -4531,7 +4531,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online March 16-",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":22091,
     "notes":"",
     "documentation":""
@@ -4555,7 +4555,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":34108,
     "notes":"",
     "documentation":""
@@ -4579,7 +4579,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":9077,
     "notes":"",
     "documentation":""
@@ -4603,7 +4603,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6360,
     "notes":"",
     "documentation":""
@@ -4627,7 +4627,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":19969,
     "notes":"",
     "documentation":""
@@ -4651,7 +4651,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":28190,
     "notes":"",
     "documentation":""
@@ -4675,7 +4675,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2142,
     "notes":"",
     "documentation":""
@@ -4699,7 +4699,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Students expected to be gone by March 23",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1774,
     "notes":"",
     "documentation":""
@@ -4723,7 +4723,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1832,
     "notes":"",
     "documentation":""
@@ -4747,7 +4747,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Fully move to online by March 23",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":40803,
     "notes":"",
     "documentation":""
@@ -4771,7 +4771,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1367,
     "notes":"",
     "documentation":""
@@ -4795,7 +4795,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"\"The Cincinnati campus is closed for students, faculty, and staff today, Tuesday, March 10 and Wednesday, March 11. Classes in Cincinnati will be held via Zoom on Wednesday, March 11, and Thursday, March 12. Classes in New York will be held via Zoom on Wednesday, March 11 and Thursday, March 12. Classes and other activities in Los Angeles will proceed as planned this week. Classes and other activities in Jerusalem will proceed as planned this week.\"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":362,
     "notes":"",
     "documentation":""
@@ -4819,7 +4819,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5275,
     "notes":"",
     "documentation":""
@@ -4843,7 +4843,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1376,
     "notes":"",
     "documentation":""
@@ -4867,7 +4867,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2298,
     "notes":"",
     "documentation":""
@@ -4891,7 +4891,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 9-13, 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12170,
     "notes":"",
     "documentation":""
@@ -4915,7 +4915,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3303,
     "notes":"",
     "documentation":""
@@ -4939,7 +4939,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":6956,
     "notes":"",
     "documentation":""
@@ -4963,7 +4963,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":82166,
     "notes":"",
     "documentation":""
@@ -4987,7 +4987,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":9842,
     "notes":"",
     "documentation":""
@@ -5011,7 +5011,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":60,
     "notes":"",
     "documentation":""
@@ -5035,7 +5035,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7873,
     "notes":"",
     "documentation":""
@@ -5059,7 +5059,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":22948,
     "notes":"",
     "documentation":""
@@ -5083,7 +5083,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1674,
     "notes":"",
     "documentation":""
@@ -5107,7 +5107,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16180,
     "notes":"",
     "documentation":""
@@ -5131,7 +5131,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":46723,
     "notes":"",
     "documentation":""
@@ -5155,7 +5155,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5530,
     "notes":"",
     "documentation":""
@@ -5179,7 +5179,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3715,
     "notes":"",
     "documentation":""
@@ -5203,7 +5203,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5152,
     "notes":"",
     "documentation":""
@@ -5227,7 +5227,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":34699,
     "notes":"",
     "documentation":""
@@ -5251,7 +5251,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6406,
     "notes":"",
     "documentation":""
@@ -5275,7 +5275,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":14078,
     "notes":"",
     "documentation":""
@@ -5299,7 +5299,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4272,
     "notes":"",
     "documentation":""
@@ -5323,7 +5323,7 @@
     "alexander":"",
     "manual":"",
     "timing":"moving online ASAP",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":39108,
     "notes":"",
     "documentation":""
@@ -5347,7 +5347,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":700,
     "notes":"",
     "documentation":""
@@ -5371,7 +5371,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7036,
     "notes":"",
     "documentation":""
@@ -5395,7 +5395,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":162762,
     "notes":"",
     "documentation":""
@@ -5419,7 +5419,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10000,
     "notes":"",
     "documentation":""
@@ -5443,7 +5443,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":24133,
     "notes":"",
     "documentation":""
@@ -5467,7 +5467,7 @@
     "alexander":"",
     "manual":"",
     "timing":"\"Beginning... March 11, all in-person, face-to-face classes are suspended through and including Monday, April 13. To give our faculty and staff time to prepare for the transition to online learning, we are also cancelling all classes on Wednesday, March 11, Thursday, March 12 and Friday, March 13. Beginning Monday, March 16, all classes will resume online until at least Monday, April 13\"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4018,
     "notes":"",
     "documentation":""
@@ -5491,7 +5491,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":31891,
     "notes":"",
     "documentation":""
@@ -5515,7 +5515,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online classes starting March 23",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1564,
     "notes":"",
     "documentation":""
@@ -5539,7 +5539,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":25450,
     "notes":"",
     "documentation":""
@@ -5563,7 +5563,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Online starting March 16. Then \"[t]he University currently plans to resume on-campus instruction on Monday, March 30 and will continue to update the campus community on this evolving situation.\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16577,
     "notes":"",
     "documentation":""
@@ -5587,7 +5587,7 @@
     "alexander":"",
     "manual":"",
     "timing":"classes canceled March 10-15. \"Classes will be conducted remotely March 16 through April 13, with the exception of spring break, which is the week of March 23.\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":34023,
     "notes":"",
     "documentation":""
@@ -5611,7 +5611,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1768,
     "notes":"",
     "documentation":""
@@ -5635,7 +5635,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private for-profit, 2-year",
+    "sector":"Private for-profit, 2-year",
     "student_count":400,
     "notes":"",
     "documentation":""
@@ -5659,7 +5659,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1396,
     "notes":"",
     "documentation":""
@@ -5683,7 +5683,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":4018,
     "notes":"",
     "documentation":""
@@ -5707,7 +5707,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7639,
     "notes":"",
     "documentation":""
@@ -5731,7 +5731,7 @@
     "alexander":"",
     "manual":"",
     "timing":"spring break, then online teaching March 23-April 5",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2647,
     "notes":"",
     "documentation":""
@@ -5755,7 +5755,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2620,
     "notes":"",
     "documentation":""
@@ -5779,7 +5779,7 @@
     "alexander":"",
     "manual":"",
     "timing":"through March 20, 2020",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5154,
     "notes":"",
     "documentation":""
@@ -5803,7 +5803,7 @@
     "alexander":"",
     "manual":"1",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":15685,
     "notes":"",
     "documentation":""
@@ -5827,7 +5827,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1487,
     "notes":"",
     "documentation":""
@@ -5851,7 +5851,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7562,
     "notes":"",
     "documentation":""
@@ -5875,7 +5875,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2524,
     "notes":"",
     "documentation":""
@@ -5899,7 +5899,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":13225,
     "notes":"",
     "documentation":""
@@ -5923,7 +5923,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4215,
     "notes":"",
     "documentation":""
@@ -5947,7 +5947,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":18378,
     "notes":"",
     "documentation":""
@@ -5971,7 +5971,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5909,
     "notes":"",
     "documentation":""
@@ -5995,7 +5995,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Administrative Unit",
+    "sector":"Administrative Unit",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -6019,7 +6019,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7981,
     "notes":"",
     "documentation":""
@@ -6043,7 +6043,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online classes, March 16-31 (after spring break)",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":10538,
     "notes":"",
     "documentation":""
@@ -6067,7 +6067,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -6091,7 +6091,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6425,
     "notes":"",
     "documentation":""
@@ -6115,7 +6115,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4377,
     "notes":"",
     "documentation":""
@@ -6139,7 +6139,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2097,
     "notes":"",
     "documentation":""
@@ -6163,7 +6163,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2174,
     "notes":"",
     "documentation":""
@@ -6187,7 +6187,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":9240,
     "notes":"",
     "documentation":""
@@ -6211,7 +6211,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4413,
     "notes":"",
     "documentation":""
@@ -6235,7 +6235,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12162,
     "notes":"",
     "documentation":""
@@ -6259,7 +6259,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1362,
     "notes":"",
     "documentation":""
@@ -6283,7 +6283,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16818,
     "notes":"",
     "documentation":""
@@ -6307,7 +6307,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1407,
     "notes":"",
     "documentation":""
@@ -6331,7 +6331,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4065,
     "notes":"",
     "documentation":""
@@ -6355,7 +6355,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 16-30",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":10104,
     "notes":"",
     "documentation":""
@@ -6379,7 +6379,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Classes canceled March 16 - March 20. Next week is spring break. Online from March 30 through \"the remainder of the semester.\"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12168,
     "notes":"",
     "documentation":""
@@ -6403,7 +6403,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":11850,
     "notes":"",
     "documentation":""
@@ -6427,7 +6427,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2350,
     "notes":"",
     "documentation":""
@@ -6451,7 +6451,7 @@
     "alexander":"",
     "manual":"",
     "timing":"\"By Monday, March 30, we expect to have full implementation of remote teaching and learning\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":25004,
     "notes":"",
     "documentation":""
@@ -6475,7 +6475,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3440,
     "notes":"",
     "documentation":""
@@ -6499,7 +6499,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2474,
     "notes":"",
     "documentation":""
@@ -6523,7 +6523,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":21731,
     "notes":"",
     "documentation":""
@@ -6547,7 +6547,7 @@
     "alexander":"",
     "manual":"",
     "timing":"shifting online March 11-April 20",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":55423,
     "notes":"",
     "documentation":""
@@ -6571,7 +6571,7 @@
     "alexander":"",
     "manual":"",
     "timing":"classes canceled March 15-April 16. Online optional (?).",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7727,
     "notes":"",
     "documentation":""
@@ -6595,7 +6595,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Extending spring break, online by end of March",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4776,
     "notes":"",
     "documentation":""
@@ -6619,7 +6619,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":3948,
     "notes":"",
     "documentation":""
@@ -6643,7 +6643,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1983,
     "notes":"",
     "documentation":""
@@ -6667,7 +6667,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1983,
     "notes":"",
     "documentation":""
@@ -6691,7 +6691,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":10104,
     "notes":"",
     "documentation":""
@@ -6715,7 +6715,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3215,
     "notes":"",
     "documentation":""
@@ -6739,7 +6739,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":24054,
     "notes":"",
     "documentation":""
@@ -6763,7 +6763,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3272,
     "notes":"",
     "documentation":""
@@ -6787,7 +6787,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2801,
     "notes":"",
     "documentation":""
@@ -6811,7 +6811,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -6835,7 +6835,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9466,
     "notes":"",
     "documentation":""
@@ -6859,7 +6859,7 @@
     "alexander":"",
     "manual":"1",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6302,
     "notes":"",
     "documentation":""
@@ -6883,7 +6883,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8369,
     "notes":"",
     "documentation":""
@@ -6907,7 +6907,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 9-13 (spring break March 14-22)",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6936,
     "notes":"",
     "documentation":""
@@ -6931,7 +6931,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"allow students to miss f2f class, take online",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":18722,
     "notes":"",
     "documentation":""
@@ -6955,7 +6955,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":3948,
     "notes":"",
     "documentation":""
@@ -6979,7 +6979,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":24022,
     "notes":"",
     "documentation":""
@@ -7003,7 +7003,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":12217,
     "notes":"",
     "documentation":""
@@ -7027,7 +7027,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2326,
     "notes":"",
     "documentation":""
@@ -7051,7 +7051,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":523,
     "notes":"",
     "documentation":""
@@ -7075,7 +7075,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":8375,
     "notes":"",
     "documentation":""
@@ -7099,7 +7099,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3726,
     "notes":"",
     "documentation":""
@@ -7123,7 +7123,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2571,
     "notes":"",
     "documentation":""
@@ -7147,7 +7147,7 @@
     "alexander":"",
     "manual":"",
     "timing":"last day of f2f classes is March 13th; online thereafter",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2481,
     "notes":"",
     "documentation":""
@@ -7171,7 +7171,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":8851,
     "notes":"",
     "documentation":""
@@ -7195,7 +7195,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3235,
     "notes":"",
     "documentation":""
@@ -7219,7 +7219,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":896,
     "notes":"",
     "documentation":""
@@ -7243,7 +7243,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":13158,
     "notes":"",
     "documentation":""
@@ -7267,7 +7267,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2262,
     "notes":"",
     "documentation":""
@@ -7291,7 +7291,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8189,
     "notes":"",
     "documentation":""
@@ -7315,7 +7315,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Online",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":57014,
     "notes":"",
     "documentation":""
@@ -7339,7 +7339,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -7363,7 +7363,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":15065,
     "notes":"",
     "documentation":""
@@ -7387,7 +7387,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3314,
     "notes":"",
     "documentation":""
@@ -7411,7 +7411,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":11220,
     "notes":"",
     "documentation":""
@@ -7435,7 +7435,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":27795,
     "notes":"",
     "documentation":""
@@ -7459,7 +7459,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -7483,7 +7483,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":2481,
     "notes":"",
     "documentation":""
@@ -7507,7 +7507,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":34803,
     "notes":"",
     "documentation":""
@@ -7531,7 +7531,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":20443,
     "notes":"",
     "documentation":""
@@ -7555,7 +7555,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16539,
     "notes":"",
     "documentation":""
@@ -7579,7 +7579,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9073,
     "notes":"",
     "documentation":""
@@ -7603,7 +7603,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":73657,
     "notes":"",
     "documentation":""
@@ -7627,7 +7627,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":1716,
     "notes":"",
     "documentation":""
@@ -7651,7 +7651,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":25464,
     "notes":"",
     "documentation":""
@@ -7675,7 +7675,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":8070,
     "notes":"",
     "documentation":""
@@ -7699,7 +7699,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":24372,
     "notes":"",
     "documentation":""
@@ -7723,7 +7723,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online learning March 16-April 25.",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":22694,
     "notes":"",
     "documentation":""
@@ -7747,7 +7747,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2975,
     "notes":"",
     "documentation":""
@@ -7771,7 +7771,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3149,
     "notes":"",
     "documentation":""
@@ -7795,7 +7795,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Online March 16-30 (spring break March 9-13)",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":64924,
     "notes":"",
     "documentation":""
@@ -7819,7 +7819,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -7843,7 +7843,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -7867,7 +7867,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":28297,
     "notes":"",
     "documentation":""
@@ -7891,7 +7891,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":411,
     "notes":"",
     "documentation":""
@@ -7915,7 +7915,7 @@
     "alexander":"",
     "manual":"1",
     "timing":"March 11-20",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9821,
     "notes":"",
     "documentation":""
@@ -7939,7 +7939,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":37738,
     "notes":"",
     "documentation":""
@@ -7963,7 +7963,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3258,
     "notes":"",
     "documentation":""
@@ -7987,7 +7987,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":17567,
     "notes":"",
     "documentation":""
@@ -8011,7 +8011,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":14940,
     "notes":"",
     "documentation":""
@@ -8035,7 +8035,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"Canceled March 9; online March 10-30",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3337,
     "notes":"",
     "documentation":""
@@ -8059,7 +8059,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3337,
     "notes":"",
     "documentation":""
@@ -8083,7 +8083,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 9 -",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1241,
     "notes":"",
     "documentation":""
@@ -8107,7 +8107,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":798,
     "notes":"",
     "documentation":""
@@ -8131,7 +8131,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2222,
     "notes":"",
     "documentation":""
@@ -8155,7 +8155,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5885,
     "notes":"",
     "documentation":""
@@ -8179,7 +8179,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -8203,7 +8203,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online March 16-April 3",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":50426,
     "notes":"",
     "documentation":""
@@ -8227,7 +8227,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8652,
     "notes":"",
     "documentation":""
@@ -8251,7 +8251,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":37,
     "notes":"",
     "documentation":""
@@ -8275,7 +8275,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5162,
     "notes":"",
     "documentation":""
@@ -8299,7 +8299,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":35257,
     "notes":"",
     "documentation":""
@@ -8323,7 +8323,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9945,
     "notes":"",
     "documentation":""
@@ -8347,7 +8347,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"canceled on-campus events",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":508,
     "notes":"",
     "documentation":""
@@ -8371,7 +8371,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 23 -",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8593,
     "notes":"",
     "documentation":""
@@ -8395,7 +8395,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -8419,7 +8419,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":12778,
     "notes":"",
     "documentation":""
@@ -8443,7 +8443,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":1906,
     "notes":"",
     "documentation":""
@@ -8467,7 +8467,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online instruction starting March 18, 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":11994,
     "notes":"",
     "documentation":""
@@ -8491,7 +8491,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10296,
     "notes":"",
     "documentation":""
@@ -8515,7 +8515,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":728,
     "notes":"",
     "documentation":""
@@ -8539,7 +8539,7 @@
     "alexander":"",
     "manual":"1",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":10778,
     "notes":"",
     "documentation":""
@@ -8563,7 +8563,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7744,
     "notes":"",
     "documentation":""
@@ -8587,7 +8587,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9497,
     "notes":"",
     "documentation":""
@@ -8611,7 +8611,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2080,
     "notes":"",
     "documentation":""
@@ -8635,7 +8635,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 9-13, 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7362,
     "notes":"",
     "documentation":""
@@ -8659,7 +8659,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5733,
     "notes":"",
     "documentation":""
@@ -8683,7 +8683,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2113,
     "notes":"",
     "documentation":""
@@ -8707,7 +8707,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5744,
     "notes":"",
     "documentation":""
@@ -8731,7 +8731,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":18749,
     "notes":"",
     "documentation":""
@@ -8755,7 +8755,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1671,
     "notes":"",
     "documentation":""
@@ -8779,7 +8779,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3533,
     "notes":"",
     "documentation":""
@@ -8803,7 +8803,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Extended spring break",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":21305,
     "notes":"",
     "documentation":""
@@ -8827,7 +8827,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -8851,7 +8851,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"Classes canceled March 12-22. March 23 \"through at least Friday, April 3, all course instruction will be delivered remotely. All face-to-face instruction is suspended\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7904,
     "notes":"",
     "documentation":""
@@ -8875,7 +8875,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"Classes canceled March 12-22. March 23 \"through at least Friday, April 3, all course instruction will be delivered remotely. All face-to-face instruction is suspended\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":55698,
     "notes":"",
     "documentation":""
@@ -8899,7 +8899,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"Classes canceled March 12-22. March 23 \"through at least Friday, April 3, all course instruction will be delivered remotely. All face-to-face instruction is suspended\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":15220,
     "notes":"",
     "documentation":""
@@ -8923,7 +8923,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 9-29, 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":9863,
     "notes":"",
     "documentation":""
@@ -8947,7 +8947,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online classes March 16-April 17",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9688,
     "notes":"",
     "documentation":""
@@ -8971,7 +8971,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":9463,
     "notes":"",
     "documentation":""
@@ -8995,7 +8995,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Closed week of March 15th",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":17338,
     "notes":"",
     "documentation":""
@@ -9019,7 +9019,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9529,
     "notes":"",
     "documentation":""
@@ -9043,7 +9043,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5994,
     "notes":"",
     "documentation":""
@@ -9067,7 +9067,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":37748,
     "notes":"",
     "documentation":""
@@ -9091,7 +9091,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":33506,
     "notes":"",
     "documentation":""
@@ -9115,7 +9115,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"canceled March 10-15; online from March 16",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":33506,
     "notes":"",
     "documentation":""
@@ -9139,7 +9139,7 @@
     "alexander":"",
     "manual":"",
     "timing":"\"All in-person classes are suspended from March 10-13. This time is to be used for faculty and staff to prepare for the transition from in-person instruction to ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬ ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“distributedÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬ ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÂ or ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬ ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“fully onlineÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬ ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÂ instruction. See below. Current online classes will continue to be held. In-person classes will move to either distributed or fully online instruction from March 16-27 when a determination will be made and communicated regarding in-person classes.\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":39002,
     "notes":"",
     "documentation":""
@@ -9163,7 +9163,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online March 10 - April 13th; not closed.,",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":9524,
     "notes":"",
     "documentation":""
@@ -9187,7 +9187,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":41743,
     "notes":"",
     "documentation":""
@@ -9211,7 +9211,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1807,
     "notes":"",
     "documentation":""
@@ -9235,7 +9235,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9911,
     "notes":"",
     "documentation":""
@@ -9259,7 +9259,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 9, 2020-",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4201,
     "notes":"",
     "documentation":""
@@ -9283,7 +9283,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 9-20, 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8343,
     "notes":"",
     "documentation":""
@@ -9307,7 +9307,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"1.58E+09",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":11177,
     "notes":"",
     "documentation":""
@@ -9331,7 +9331,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":11177,
     "notes":"",
     "documentation":""
@@ -9355,7 +9355,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3414,
     "notes":"",
     "documentation":""
@@ -9379,7 +9379,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8157,
     "notes":"",
     "documentation":""
@@ -9403,7 +9403,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1630,
     "notes":"",
     "documentation":""
@@ -9427,7 +9427,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":31708,
     "notes":"",
     "documentation":""
@@ -9451,7 +9451,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7878,
     "notes":"",
     "documentation":""
@@ -9475,7 +9475,7 @@
     "alexander":"",
     "manual":"",
     "timing":"cancel, March 16-22",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2860,
     "notes":"",
     "documentation":""
@@ -9499,7 +9499,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10446,
     "notes":"",
     "documentation":""
@@ -9523,7 +9523,7 @@
     "alexander":"",
     "manual":"",
     "timing":"\"In-person classes will be offered on campus through Friday, March 13. Spring recess will be extended by one week through Sunday, March 29. Alternate modes of instruction will be offered for the curriculum, beginning on March 30\"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3259,
     "notes":"",
     "documentation":""
@@ -9547,7 +9547,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6597,
     "notes":"",
     "documentation":""
@@ -9571,7 +9571,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10468,
     "notes":"",
     "documentation":""
@@ -9595,7 +9595,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3205,
     "notes":"",
     "documentation":""
@@ -9619,7 +9619,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":15244,
     "notes":"",
     "documentation":""
@@ -9643,7 +9643,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10453,
     "notes":"",
     "documentation":""
@@ -9667,7 +9667,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":13245,
     "notes":"",
     "documentation":""
@@ -9691,7 +9691,7 @@
     "alexander":"",
     "manual":"",
     "timing":"classes canceled March 10-15. \"Following Spring Break, classes will be moved to an online-only format until at least April 5.\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":11642,
     "notes":"",
     "documentation":""
@@ -9715,7 +9715,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16271,
     "notes":"",
     "documentation":""
@@ -9739,7 +9739,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16021,
     "notes":"",
     "documentation":""
@@ -9763,7 +9763,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":13062,
     "notes":"",
     "documentation":""
@@ -9787,7 +9787,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4014,
     "notes":"",
     "documentation":""
@@ -9811,7 +9811,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2431,
     "notes":"",
     "documentation":""
@@ -9835,7 +9835,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 2-year",
+    "sector":"Private not-for-profit, 2-year",
     "student_count":826,
     "notes":"",
     "documentation":""
@@ -9859,7 +9859,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3352,
     "notes":"",
     "documentation":""
@@ -9883,7 +9883,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5973,
     "notes":"",
     "documentation":""
@@ -9907,7 +9907,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4780,
     "notes":"",
     "documentation":""
@@ -9931,7 +9931,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4213,
     "notes":"",
     "documentation":""
@@ -9955,7 +9955,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":9463,
     "notes":"",
     "documentation":""
@@ -9979,7 +9979,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2622,
     "notes":"",
     "documentation":""
@@ -10003,7 +10003,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3926,
     "notes":"",
     "documentation":""
@@ -10027,7 +10027,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2249,
     "notes":"",
     "documentation":""
@@ -10051,7 +10051,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3120,
     "notes":"",
     "documentation":""
@@ -10075,7 +10075,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online, March 10 -27, 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":23542,
     "notes":"",
     "documentation":""
@@ -10099,7 +10099,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":20946,
     "notes":"",
     "documentation":""
@@ -10123,7 +10123,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":3592,
     "notes":"",
     "documentation":""
@@ -10147,7 +10147,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -10171,7 +10171,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":14561,
     "notes":"",
     "documentation":""
@@ -10195,7 +10195,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Cancel classes March 10; online, March 11-13 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8015,
     "notes":"",
     "documentation":""
@@ -10219,7 +10219,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4515,
     "notes":"",
     "documentation":""
@@ -10243,7 +10243,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10976,
     "notes":"",
     "documentation":""
@@ -10267,7 +10267,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -10291,7 +10291,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8140,
     "notes":"",
     "documentation":""
@@ -10315,7 +10315,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":11048,
     "notes":"",
     "documentation":""
@@ -10339,7 +10339,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9539,
     "notes":"",
     "documentation":""
@@ -10363,7 +10363,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6000,
     "notes":"",
     "documentation":""
@@ -10387,7 +10387,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6473,
     "notes":"",
     "documentation":""
@@ -10411,7 +10411,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":11159,
     "notes":"",
     "documentation":""
@@ -10435,7 +10435,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6558,
     "notes":"",
     "documentation":""
@@ -10459,7 +10459,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4365,
     "notes":"",
     "documentation":""
@@ -10483,7 +10483,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3277,
     "notes":"",
     "documentation":""
@@ -10507,7 +10507,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2380,
     "notes":"",
     "documentation":""
@@ -10531,7 +10531,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":413,
     "notes":"",
     "documentation":""
@@ -10555,7 +10555,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4060,
     "notes":"",
     "documentation":""
@@ -10579,7 +10579,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4981,
     "notes":"",
     "documentation":""
@@ -10603,7 +10603,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":4207,
     "notes":"",
     "documentation":""
@@ -10627,7 +10627,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7886,
     "notes":"",
     "documentation":""
@@ -10651,7 +10651,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2033,
     "notes":"",
     "documentation":""
@@ -10675,7 +10675,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":18047,
     "notes":"",
     "documentation":""
@@ -10699,7 +10699,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":1998,
     "notes":"",
     "documentation":""
@@ -10723,7 +10723,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3741,
     "notes":"",
     "documentation":""
@@ -10747,7 +10747,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7171,
     "notes":"",
     "documentation":""
@@ -10771,7 +10771,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online starting March 19",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3307,
     "notes":"",
     "documentation":""
@@ -10795,7 +10795,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":20279,
     "notes":"",
     "documentation":""
@@ -10819,7 +10819,7 @@
     "alexander":"",
     "manual":"",
     "timing":"spring break extended through March 20; online teaching March 23 \"through at least Friday, April 3\"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1653,
     "notes":"",
     "documentation":""
@@ -10843,7 +10843,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 13 -",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":37673,
     "notes":"",
     "documentation":""
@@ -10867,7 +10867,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":43713,
     "notes":"",
     "documentation":""
@@ -10891,7 +10891,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":11451,
     "notes":"",
     "documentation":""
@@ -10915,7 +10915,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7534,
     "notes":"",
     "documentation":""
@@ -10939,7 +10939,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":2589,
     "notes":"",
     "documentation":""
@@ -10963,7 +10963,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":11044,
     "notes":"",
     "documentation":""
@@ -10987,7 +10987,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":11485,
     "notes":"",
     "documentation":""
@@ -11011,7 +11011,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":42924,
     "notes":"",
     "documentation":""
@@ -11035,7 +11035,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":39987,
     "notes":"",
     "documentation":""
@@ -11059,7 +11059,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2986,
     "notes":"",
     "documentation":""
@@ -11083,7 +11083,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6509,
     "notes":"",
     "documentation":""
@@ -11107,7 +11107,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 13 -",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":8630,
     "notes":"",
     "documentation":""
@@ -11131,7 +11131,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":955,
     "notes":"",
     "documentation":""
@@ -11155,7 +11155,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":741,
     "notes":"",
     "documentation":""
@@ -11179,7 +11179,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online, March 23-27",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12333,
     "notes":"",
     "documentation":""
@@ -11203,7 +11203,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":60075,
     "notes":"",
     "documentation":""
@@ -11227,7 +11227,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":5520,
     "notes":"",
     "documentation":""
@@ -11251,7 +11251,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 9 -12",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":15464,
     "notes":"",
     "documentation":""
@@ -11275,7 +11275,7 @@
     "alexander":"",
     "manual":"",
     "timing":"classes canceled March 10-13, 2020. Online after spring break.",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":25744,
     "notes":"",
     "documentation":""
@@ -11299,7 +11299,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4503,
     "notes":"",
     "documentation":""
@@ -11323,7 +11323,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1560,
     "notes":"",
     "documentation":""
@@ -11347,7 +11347,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2457,
     "notes":"",
     "documentation":""
@@ -11371,7 +11371,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2730,
     "notes":"",
     "documentation":""
@@ -11395,7 +11395,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6810,
     "notes":"",
     "documentation":""
@@ -11419,7 +11419,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Spring break extended March 13-25; online only afterwards",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12492,
     "notes":"",
     "documentation":""
@@ -11443,7 +11443,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":14286,
     "notes":"",
     "documentation":""
@@ -11467,7 +11467,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 23 through at least Sunday, April 5",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":5643,
     "notes":"",
     "documentation":""
@@ -11491,7 +11491,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":15825,
     "notes":"",
     "documentation":""
@@ -11515,7 +11515,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Classes cancelled through March 29; classes resume online March 30th",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":23217,
     "notes":"",
     "documentation":""
@@ -11539,7 +11539,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":42568,
     "notes":"",
     "documentation":""
@@ -11563,7 +11563,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":48318,
     "notes":"",
     "documentation":""
@@ -11587,7 +11587,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6666,
     "notes":"",
     "documentation":""
@@ -11611,7 +11611,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 10-30, 2020 (shift to online)",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":44235,
     "notes":"",
     "documentation":""
@@ -11635,7 +11635,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"\"For the last week of Winter Quarter, courses are continuing to meet in person, but instructors will no longer use attendance-based points in their grading.",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":37744,
     "notes":"",
     "documentation":""
@@ -11659,7 +11659,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"remote for spring quarter",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":37170,
     "notes":"",
     "documentation":""
@@ -11683,7 +11683,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":44235,
     "notes":"",
     "documentation":""
@@ -11707,7 +11707,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":39783,
     "notes":"",
     "documentation":""
@@ -11731,7 +11731,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":37170,
     "notes":"",
     "documentation":""
@@ -11755,7 +11755,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":46592,
     "notes":"",
     "documentation":""
@@ -11779,7 +11779,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":24907,
     "notes":"",
     "documentation":""
@@ -11803,7 +11803,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":26561,
     "notes":"",
     "documentation":""
@@ -11827,7 +11827,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":20592,
     "notes":"",
     "documentation":""
@@ -11851,7 +11851,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":78073,
     "notes":"",
     "documentation":""
@@ -11875,7 +11875,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":18751,
     "notes":"",
     "documentation":""
@@ -11899,7 +11899,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":18350,
     "notes":"",
     "documentation":""
@@ -11923,7 +11923,7 @@
     "alexander":"",
     "manual":"",
     "timing":"\"Effective Saturday, March 14, 2020, UC will suspend face-to-face instruction, lectures, discussion sessions, seminars and other similar classroom settings, and move to remote instruction. Face-to-face instruction will resume Monday, April 13, 2020\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":43326,
     "notes":"",
     "documentation":""
@@ -11947,7 +11947,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":44235,
     "notes":"",
     "documentation":""
@@ -11971,7 +11971,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":39302,
     "notes":"",
     "documentation":""
@@ -11995,7 +11995,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":29637,
     "notes":"",
     "documentation":""
@@ -12019,7 +12019,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12005,
     "notes":"",
     "documentation":""
@@ -12043,7 +12043,7 @@
     "alexander":"",
     "manual":"",
     "timing":"suspending classes March 12-13; spring break March 14-22; online March 23 \"until further notice\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":25534,
     "notes":"",
     "documentation":""
@@ -12067,7 +12067,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":13449,
     "notes":"",
     "documentation":""
@@ -12091,7 +12091,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5661,
     "notes":"",
     "documentation":""
@@ -12115,7 +12115,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2658,
     "notes":"",
     "documentation":""
@@ -12139,7 +12139,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3014,
     "notes":"",
     "documentation":""
@@ -12163,7 +12163,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":5536,
     "notes":"",
     "documentation":""
@@ -12187,7 +12187,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":59603,
     "notes":"",
     "documentation":""
@@ -12211,7 +12211,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":41538,
     "notes":"",
     "documentation":""
@@ -12235,7 +12235,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":51371,
     "notes":"",
     "documentation":""
@@ -12259,7 +12259,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":43326,
     "notes":"",
     "documentation":""
@@ -12283,7 +12283,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6830,
     "notes":"",
     "documentation":""
@@ -12307,7 +12307,7 @@
     "alexander":"",
     "manual":"",
     "timing":"virtual instruction ASAP",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":35876,
     "notes":"",
     "documentation":""
@@ -12331,7 +12331,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1307,
     "notes":"",
     "documentation":""
@@ -12355,7 +12355,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -12379,7 +12379,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":31136,
     "notes":"",
     "documentation":""
@@ -12403,7 +12403,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":31102,
     "notes":"",
     "documentation":""
@@ -12427,7 +12427,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":24828,
     "notes":"",
     "documentation":""
@@ -12451,7 +12451,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3201,
     "notes":"",
     "documentation":""
@@ -12475,7 +12475,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -12499,7 +12499,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4210,
     "notes":"",
     "documentation":""
@@ -12523,7 +12523,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":5373,
     "notes":"",
     "documentation":""
@@ -12547,7 +12547,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"classes canceled March 23-27. Online instruction March 30-April 10 at least.",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":44052,
     "notes":"",
     "documentation":""
@@ -12571,7 +12571,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -12595,7 +12595,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -12619,7 +12619,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online through April 3, then determine next",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":35156,
     "notes":"",
     "documentation":""
@@ -12643,7 +12643,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online through April 3, then determine next",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":19783,
     "notes":"",
     "documentation":""
@@ -12667,7 +12667,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online through April 3, then determine next",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9782,
     "notes":"",
     "documentation":""
@@ -12691,7 +12691,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online through April 3, then determine next",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":22150,
     "notes":"",
     "documentation":""
@@ -12715,7 +12715,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":24847,
     "notes":"",
     "documentation":""
@@ -12739,7 +12739,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":19215,
     "notes":"",
     "documentation":""
@@ -12763,7 +12763,7 @@
     "alexander":"",
     "manual":"",
     "timing":"canceled March 12-13; online March 16-21",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":47543,
     "notes":"",
     "documentation":""
@@ -12787,7 +12787,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -12811,7 +12811,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online \"March 18, 2020, until at least April 1, 2020\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3343,
     "notes":"",
     "documentation":""
@@ -12835,7 +12835,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"Spring break will be extended until March 18; online \"March 18, 2020, until at least April 1, 2020\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":11777,
     "notes":"",
     "documentation":""
@@ -12859,7 +12859,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online \"March 18, 2020, until at least April 1, 2020\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":1778,
     "notes":"",
     "documentation":""
@@ -12883,7 +12883,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"Spring break will be extended until March 18; online \"March 18, 2020, until at least April 1, 2020\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":479,
     "notes":"",
     "documentation":""
@@ -12907,7 +12907,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"Spring break will be extended until March 18; online \"March 18, 2020, until at least April 1, 2020\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":64115,
     "notes":"",
     "documentation":""
@@ -12931,7 +12931,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":25416,
     "notes":"",
     "documentation":""
@@ -12955,7 +12955,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":35156,
     "notes":"",
     "documentation":""
@@ -12979,7 +12979,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":19783,
     "notes":"",
     "documentation":""
@@ -13003,7 +13003,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":9782,
     "notes":"",
     "documentation":""
@@ -13027,7 +13027,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":22150,
     "notes":"",
     "documentation":""
@@ -13051,7 +13051,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -13075,7 +13075,7 @@
     "alexander":"",
     "manual":"",
     "timing":"unclear",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7713,
     "notes":"",
     "documentation":""
@@ -13099,7 +13099,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9910,
     "notes":"",
     "documentation":""
@@ -13123,7 +13123,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -13147,7 +13147,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":17646,
     "notes":"",
     "documentation":""
@@ -13171,7 +13171,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":19547,
     "notes":"",
     "documentation":""
@@ -13195,7 +13195,7 @@
     "alexander":"",
     "manual":"",
     "timing":"moving online ASAP",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":14221,
     "notes":"",
     "documentation":""
@@ -13219,7 +13219,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4774,
     "notes":"",
     "documentation":""
@@ -13243,7 +13243,7 @@
     "alexander":"",
     "manual":"",
     "timing":"canceled March 16-20; online March 23 \"through at least Monday, April 13\"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":13043,
     "notes":"",
     "documentation":""
@@ -13267,7 +13267,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -13291,7 +13291,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":25640,
     "notes":"",
     "documentation":""
@@ -13315,7 +13315,7 @@
     "alexander":"",
     "manual":"",
     "timing":"spring break extended; online teaching March 23-",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":28755,
     "notes":"",
     "documentation":""
@@ -13339,7 +13339,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2655,
     "notes":"",
     "documentation":""
@@ -13363,7 +13363,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -13387,7 +13387,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 9-24",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2850,
     "notes":"",
     "documentation":""
@@ -13411,7 +13411,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":20502,
     "notes":"",
     "documentation":""
@@ -13435,7 +13435,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4740,
     "notes":"",
     "documentation":""
@@ -13459,7 +13459,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":13270,
     "notes":"",
     "documentation":""
@@ -13483,7 +13483,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":9983,
     "notes":"",
     "documentation":""
@@ -13507,7 +13507,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"canceled March 11; online starting March 18",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12511,
     "notes":"",
     "documentation":""
@@ -13531,7 +13531,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6100,
     "notes":"",
     "documentation":""
@@ -13555,7 +13555,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -13579,7 +13579,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":45468,
     "notes":"",
     "documentation":""
@@ -13603,7 +13603,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 10-25, 2020",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":39515,
     "notes":"",
     "documentation":""
@@ -13627,7 +13627,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8010,
     "notes":"",
     "documentation":""
@@ -13651,7 +13651,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6694,
     "notes":"",
     "documentation":""
@@ -13675,7 +13675,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":11071,
     "notes":"",
     "documentation":""
@@ -13699,7 +13699,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":10056,
     "notes":"",
     "documentation":""
@@ -13723,7 +13723,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":2850,
     "notes":"",
     "documentation":""
@@ -13747,7 +13747,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -13771,7 +13771,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -13795,7 +13795,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":15910,
     "notes":"",
     "documentation":""
@@ -13819,7 +13819,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -13843,7 +13843,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":22945,
     "notes":"",
     "documentation":""
@@ -13867,7 +13867,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4860,
     "notes":"",
     "documentation":""
@@ -13891,7 +13891,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":38229,
     "notes":"",
     "documentation":""
@@ -13915,7 +13915,7 @@
     "alexander":"",
     "manual":"",
     "timing":"canceled classes March 16-17; online March 18 on",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":15629,
     "notes":"",
     "documentation":""
@@ -13939,7 +13939,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":49767,
     "notes":"",
     "documentation":""
@@ -13963,7 +13963,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"online classes start March 19; assess April 5",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":28244,
     "notes":"",
     "documentation":""
@@ -13987,7 +13987,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -14011,7 +14011,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 9-20, 2020",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":55508,
     "notes":"",
     "documentation":""
@@ -14035,7 +14035,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"heading online asap",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16374,
     "notes":"",
     "documentation":""
@@ -14059,7 +14059,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -14083,7 +14083,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 13-April 17",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":11790,
     "notes":"",
     "documentation":""
@@ -14107,7 +14107,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -14131,7 +14131,7 @@
     "alexander":"",
     "manual":"",
     "timing":"online March 23-April 10; decision to come for beyond that",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":46827,
     "notes":"",
     "documentation":""
@@ -14155,7 +14155,7 @@
     "alexander":"",
     "manual":"",
     "timing":"Spring break extended March 15-29; online after that",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":28921,
     "notes":"",
     "documentation":""
@@ -14179,7 +14179,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":13963,
     "notes":"",
     "documentation":""
@@ -14203,7 +14203,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -14227,7 +14227,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -14251,7 +14251,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1532,
     "notes":"",
     "documentation":""
@@ -14275,7 +14275,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":32944,
     "notes":"",
     "documentation":""
@@ -14299,7 +14299,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4419,
     "notes":"",
     "documentation":""
@@ -14323,7 +14323,7 @@
     "alexander":"",
     "manual":"",
     "timing":"canceled until March 30, then online",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":13431,
     "notes":"",
     "documentation":""
@@ -14347,7 +14347,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2562,
     "notes":"",
     "documentation":""
@@ -14371,7 +14371,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":12793,
     "notes":"",
     "documentation":""
@@ -14395,7 +14395,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":33636,
     "notes":"",
     "documentation":""
@@ -14419,7 +14419,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":36115,
     "notes":"",
     "documentation":""
@@ -14443,7 +14443,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4919,
     "notes":"",
     "documentation":""
@@ -14467,7 +14467,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2487,
     "notes":"",
     "documentation":""
@@ -14491,7 +14491,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":8740,
     "notes":"",
     "documentation":""
@@ -14515,7 +14515,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 2-year",
+    "sector":"Public, 2-year",
     "student_count":29480,
     "notes":"",
     "documentation":""
@@ -14539,7 +14539,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"canceled March 11-12. Starting online March 13",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3232,
     "notes":"",
     "documentation":""
@@ -14563,7 +14563,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7745,
     "notes":"",
     "documentation":""
@@ -14587,7 +14587,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":34356,
     "notes":"",
     "documentation":""
@@ -14611,7 +14611,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"March 9-13, 2020",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":34356,
     "notes":"",
     "documentation":""
@@ -14635,7 +14635,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":null,
     "notes":"",
     "documentation":""
@@ -14659,7 +14659,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":13431,
     "notes":"",
     "documentation":""
@@ -14683,7 +14683,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"spring break extended to March 23, 2020, then \"[b]eginning March 23, there will be no in-person courses taught\n  in the classroom or any other setting until at least April 30, 2020. \"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":16962,
     "notes":"",
     "documentation":""
@@ -14707,7 +14707,7 @@
     "alexander":"",
     "manual":"",
     "timing":"spring break extended through March 23; online plan tk",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":32218,
     "notes":"",
     "documentation":""
@@ -14731,7 +14731,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":16442,
     "notes":"",
     "documentation":""
@@ -14755,7 +14755,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":4763,
     "notes":"",
     "documentation":""
@@ -14779,7 +14779,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"canceled after spring break; distance learning after that",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3498,
     "notes":"",
     "documentation":""
@@ -14803,7 +14803,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":19515,
     "notes":"",
     "documentation":""
@@ -14827,7 +14827,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"",
+    "sector":"",
     "student_count":8116,
     "notes":"",
     "documentation":""
@@ -14851,7 +14851,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1483,
     "notes":"",
     "documentation":""
@@ -14875,7 +14875,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":3844,
     "notes":"",
     "documentation":""
@@ -14899,7 +14899,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"\"March 23 through at least Sunday, April 5\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":6675,
     "notes":"",
     "documentation":""
@@ -14923,7 +14923,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":10905,
     "notes":"",
     "documentation":""
@@ -14947,7 +14947,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":24560,
     "notes":"",
     "documentation":""
@@ -14971,7 +14971,7 @@
     "alexander":"",
     "manual":"",
     "timing":"canceled March 12-13; online March 16-April 3",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":25645,
     "notes":"",
     "documentation":""
@@ -14995,7 +14995,7 @@
     "alexander":"",
     "manual":"",
     "timing":"classes canceled March 13-20; \"We plan to resume classes after Spring Break on March 31, pending any further guidance from the Health Department.\"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":17782,
     "notes":"",
     "documentation":""
@@ -15019,7 +15019,7 @@
     "alexander":"1",
     "manual":"",
     "timing":"classes canceled March 16-20; online March 23-27",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7598,
     "notes":"",
     "documentation":""
@@ -15043,7 +15043,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1329,
     "notes":"",
     "documentation":""
@@ -15067,7 +15067,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":1715,
     "notes":"",
     "documentation":""
@@ -15091,7 +15091,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":16248,
     "notes":"",
     "documentation":""
@@ -15115,7 +15115,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7356,
     "notes":"",
     "documentation":""
@@ -15139,7 +15139,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":9805,
     "notes":"",
     "documentation":""
@@ -15163,7 +15163,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2284,
     "notes":"",
     "documentation":""
@@ -15187,7 +15187,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":19649,
     "notes":"",
     "documentation":""
@@ -15211,7 +15211,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":3860,
     "notes":"",
     "documentation":""
@@ -15235,7 +15235,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":7009,
     "notes":"",
     "documentation":""
@@ -15259,7 +15259,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":2045,
     "notes":"",
     "documentation":""
@@ -15283,7 +15283,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":1665,
     "notes":"",
     "documentation":""
@@ -15307,7 +15307,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Public, 4-year or above",
+    "sector":"Public, 4-year or above",
     "student_count":17213,
     "notes":"",
     "documentation":""
@@ -15331,7 +15331,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 16-April 13; back in person April 14?",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":7956,
     "notes":"",
     "documentation":""
@@ -15355,7 +15355,7 @@
     "alexander":"",
     "manual":"",
     "timing":"",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":13972,
     "notes":"",
     "documentation":""
@@ -15379,7 +15379,7 @@
     "alexander":"",
     "manual":"",
     "timing":"March 4-10",
-    "Sector":"Private not-for-profit, 4-year or above",
+    "sector":"Private not-for-profit, 4-year or above",
     "student_count":6836,
     "notes":"",
     "documentation":""
