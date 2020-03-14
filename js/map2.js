@@ -83,7 +83,6 @@ function highlightFeature(e) {
     	}
 	
 	})
-
 }); */
 
 //uses jQueryget to get geoJSON data and style it
@@ -99,10 +98,10 @@ $.getJSON("data/data.geojson",function(data){
 	 onEachFeature: function(feature, layer) {            
         var props = layer.feature.properties;
         
-        layer.bindPopup("<b>"+props.school+"</b>"+
+        layer.bindPopup("<b>"+props.Institution+"</b>"+
 		        "<dl>"+
-            props.City+", "+props.state+
-            "<br><a href="+props.url_txt">Read More</a>"+      
+            props.City+", "+props.State+
+            "<br><a href="+props.Documentation+">Read More</a>"+      
 		        "</dl>");
 	
 	    layer.on({
