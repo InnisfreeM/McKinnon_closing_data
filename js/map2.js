@@ -73,8 +73,7 @@ function highlightFeature(e) {
         layer.bindPopup("<b>"+props.school+"</b>"+
 		        "<dl>"+
             props.city+", "+props.state+
-            "<br><a href="+props.url_txt+">Read More</a>"+      
-		        "</dl>");
+			);
 	
 	    layer.on({
 	        click: highlightFeature
