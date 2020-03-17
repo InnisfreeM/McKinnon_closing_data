@@ -70,9 +70,9 @@ function highlightFeature(e) {
 	 onEachFeature: function(feature, layer) {            
         var props = layer.feature.properties;
         
-        layer.bindPopup("<b>"+props.school+"</b>"+
+        layer.bindPopup("<b>"+props.Name+"</b>"+
 		        "<dl>"+
-            props.city+", "+props.state+
+            props.City+", "+props.State+
 			);
 	
 	    layer.on({
