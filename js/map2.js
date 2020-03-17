@@ -74,8 +74,8 @@ $.getJSON("data/campuses.geojson", function(data) {
         
         layer.bindPopup("<b>"+props.Name+"</b>"+
 		        "<dl>"+
-            props.City+", "+props.State+
-			);
+            props.City+", "+props.State+  
+			"</dl>");
 	
 	    layer.on({
 	        click: highlightFeature
@@ -84,7 +84,6 @@ $.getJSON("data/campuses.geojson", function(data) {
     	}
 	
 	})
-}); */
 
 //uses jQueryget to get geoJSON data and style it
 //this is also where we're adding the popup and determining what data goes in it
