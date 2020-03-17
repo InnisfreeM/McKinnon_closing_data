@@ -18,11 +18,13 @@ var sitePoints = null,
 //more sector Types can be added by following the pattern below
 //the last color without a type label is the color that anything with a type that isn't listed will be colored 
 function setColor(type) {
-	return type == 'Private not-for-profit, 4-year or above' ? "#7570b3" : 
-	       type == 'Public, 4-year or above' ? "#33a02c" :
-           type == 'Private for-profit, 4-year or above' ? "#d95f02" :
-           type == 'Public, 2-year' ? '#b2df8a' :
-	       type == 'Source' ? "#33a02c" : 
+	return type == 'Private not-for-profit, 4-year or above' ? "#8856a7" : 
+           type == 'Private not-for-profit, 2-year' ? "#9ebcda" :
+		   type == 'Private not-for-profit, less-than 2-year' ? "#e0ecf4" :
+		   type == 'Public, 4-year or above' ? "#2ca25f" :
+           type == 'Public, 2-year' ? '#99d8c9' :
+		   type == 'Public, less-than 2 year' ? '#e5f5f9' :
+	       type == 'Source' ? "#ffeda0" : 
 	                     "white";
 }
 
@@ -124,8 +126,8 @@ legend.onAdd = function (map) {
     
     //type is the content of the sector field, labels is what you want the label on the legend to actually say
     //there need to be the same number of types as labels and listed in the same order
-    type = ['Private for-profit, 4-year or above', 'Private not-for-profit, 4-year or above', 'Public, 4-year or above', 'Public, 2-year'];
-    labels = ['Private for-profit, 4-year or above', 'Private not-for-profit, 4-year or above', 'Public, 4-year or above', 'Public, 2-year'];
+    type = ['Private not-for-profit, 4-year or above', 'Private not-for-profit, 2-year', 'Private not-for-profit, less-than 2-year', 'Public, 4-year or above', 'Public, 2-year', 'Public, less-than 2 year'];
+    labels = ['Private not-for-profit, 4-year or above', 'Private not-for-profit, 2-year', 'Private not-for-profit, less-than 2-year', 'Public, 4-year or above', 'Public, 2-year', 'Public, less-than 2 year'];
     
     for (var i = 0; i < type.length; i++) {
         div.innerHTML +=
