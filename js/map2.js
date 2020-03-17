@@ -55,7 +55,7 @@ function highlightFeature(e) {
 	});
 }
 
-/* $.getJSON("data/campuses.geojson", function(data) {
+$.getJSON("data/campuses.geojson", function(data) {
 	campusPoints = L.geoJson(data, {
 		pointToLayer: function (feature, latlng) {
         return L.circleMarker (latlng, {
